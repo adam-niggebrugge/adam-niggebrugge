@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adam-niggebrugge
-- 👀 I’m interested in database, SQL, curious about graph db like Mongo
-- 🌱 I’m currently learning C#, SQL, Full stack development
+- 👀 I’m interested in relational databases (conceptionally easier for me), SQL experience, curious about graph dbs like Mongo
+- 🌱 I’m currently learning C#, SQL, HTML, css development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adam.niggebrugge@gmail.com
 
