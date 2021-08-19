@@ -1,5 +1,5 @@
 ## Personal 👨‍🔬
-- 👋 Hi, I’m @adam-niggebrugge, I work within Siemens LDA structure. I have had exposure to coding concepts through 🏫 secondary and tertinary education  institutions ([LCHS](https://www.lexingtoncatholic.com/) and [UKY](https://www.engr.uky.edu/research-faculty/departments/computer-science)). Now I am pursuing either online instructor lead classes offered on Javascript, SQL, HTML. 
+- 👋 Hi, I’m @adam-niggebrugge, I work within Siemens LDA structure. I have had exposure to coding concepts through 🏫 secondary and tertinary education  institutions ([LCHS](https://www.lexingtoncatholic.com/) and [UKY](https://www.engr.uky.edu/research-faculty/departments/computer-science)). Now I am pursuing online instructor lead classes offered on Javascript, SQL, HTML. 
 - On the very personal, I am becoming a first time parent (as is true for the wife), 👶 proposed due date of Sept 14 🤞.
 
 ### Tech Used 💻
