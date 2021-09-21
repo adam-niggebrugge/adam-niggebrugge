@@ -3,7 +3,7 @@
 _ _ _ _
 
 - I have had exposure to coding concepts through 🏫 secondary and tertinary education  institutions ([LCHS](https://www.lexingtoncatholic.com/) and [UKY](https://www.engr.uky.edu/research-faculty/departments/computer-science)). Now I am pursuing an online instructor lead coding bootcamp (HOOO-RAH, wait no I was in the Navy) which covers Javascript, SQL, HTML, CSS, Nodejs and OOP. 
-- On the very personal, I am becoming a first time parent (as is true for the wife), 👶's proposed due date of Sept 14 🤞.
+- On the very personal, I am a first time parent (as is true for the wife), 👶's proposed due date was Sept 14 🤞.  He has arrived and is a joy! As a better person once said, it is as if your heart just grows with the addition to your family.
 
 ### Tech Used 💻
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, Javascript, Node.js and general API development
