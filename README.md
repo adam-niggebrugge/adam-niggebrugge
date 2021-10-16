@@ -4,7 +4,7 @@ _ _ _ _
 
 
 ### Tech Used 💻
-- 🌱 I’m currently learning C#, SQL, HTML, CSS, Javascript. 
+- 🌱 I’m currently learning  HTML, CSS, Javascript, C#, SQL.
 - I am becoming familiar with install the many libraries through NodeJS.
 - I am still learning the ins and outs of RESTful interactions
 - I have used Bootstrap and Materialize, and really like Materialize with 🔄 plans to alter some existing coding activites using such. READMEs for those projects should show 🚧 
