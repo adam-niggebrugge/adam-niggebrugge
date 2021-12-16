@@ -8,7 +8,7 @@ _ _ _ _
 
 ### Tech Used 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-niggebruggea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-niggebrugge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Angular syntax/conventions
 - :sweat_drops: I proficient in HTML, CSS, Javascript, SQL.
